@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "8.8店铺",
+    "description": "",
+    "home_page_url": "https://badianba.github.io",
+    "feed_url": "https://badianba.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "8.8店铺"
+    },
+    "items": [
+        {
+            "id": "https://badianba.github.io/ceshi.html",
+            "url": "https://badianba.github.io/ceshi.html",
+            "title": "ceshi",
+            "summary": "dfsdhtuloj.,",
+            "content_html": "<p>dfsdhtuloj.,</p>",
+            "author": {
+                "name": "8.8店铺"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-08T17:15:27+08:00",
+            "date_modified": "2024-07-08T17:15:27+08:00"
+        }
+    ]
+}

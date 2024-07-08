@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>8.8店铺</title>
+    <link href="https://badianba.github.io/feed.xml" rel="self" />
+    <link href="https://badianba.github.io" />
+    <updated>2024-07-08T17:15:27+08:00</updated>
+    <author>
+        <name>8.8店铺</name>
+    </author>
+    <id>https://badianba.github.io</id>
+
+    <entry>
+        <title>ceshi</title>
+        <author>
+            <name>8.8店铺</name>
+        </author>
+        <link href="https://badianba.github.io/ceshi.html"/>
+        <id>https://badianba.github.io/ceshi.html</id>
+
+        <updated>2024-07-08T17:15:27+08:00</updated>
+            <summary>
+                <![CDATA[
+                    dfsdhtuloj.,
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dfsdhtuloj.,</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
